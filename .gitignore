@@ -1,6 +1,9 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 **/.ipynb_checkpoints
+.dccache
+
+*/content/
 
 # Chapter 2
 Ch2/GoogleNews-vectors-negative300.bin
