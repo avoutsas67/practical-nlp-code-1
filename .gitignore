@@ -4,6 +4,8 @@
 .dccache
 
 */content/
+.vscode/
+.github/
 
 # Chapter 2
 Ch2/GoogleNews-vectors-negative300.bin
