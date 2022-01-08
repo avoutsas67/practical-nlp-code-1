@@ -20,3 +20,6 @@ Ch3/data
 Ch3/model_cbow.bin
 Ch3/model_skipgram.bin
 CH3/projections/
+
+# Chapter 4
+Ch4/d2v.model
