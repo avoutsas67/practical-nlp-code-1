@@ -3,7 +3,7 @@ import requests
 import json
 
 #%%
-api_key = '7d1be776156e45d7b08ca4a9cbe645c0'
+api_key = '------key value here'
 example_text = "Hollo, wrld" # the text to be spell-checked
 endpoint = "https://api.bing.microsoft.com/v7.0/spellcheck"
 
