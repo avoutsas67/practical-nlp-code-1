@@ -20,8 +20,11 @@ wget==3.2
 fasttext
 torch
 tqdm
-pytorch_pretrained_bert
-pytorch-nlp   
-ktrain  
 lime
 seaborn
+shap
+ktrain
+pytorch-nlp 
+pytorch_pretrained_bert  
+textacy
+sklearn-crfsuite
